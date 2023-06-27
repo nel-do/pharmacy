@@ -1,39 +1,43 @@
 {
   "users":[
   {
-    "cli": "61419597332",
-	"store_ref": "cw001",
-    "store_address": "106. Pittwater Road.",
-    "suburb": "Dee Why",
-    "email_address": "neil.snowdon@vonage.com",
-    "first_name": "Neil",
+	"cli": "61419597332",
+    	"store_ref": "cw001",
+   	"prescription_id": "abcd11111",
+   	"store_address": "106. Pittwater Road.",
+    	"suburb": "Dee Why",
+   	"email_address": "neil.snowdon@vonage.com",
+    	"first_name": "Neil",
 	"last_name": "Snowdon"
   },
 {
-    "cli": "0419597332",
+   	"cli": "0419597332",
 	"store_ref": "cw001",
-    "store_address": "106. Pittwater Road.",
-    "suburb": "Dee Why",
-    "email_address": "neil.snowdon@vonage.com",
-    "first_name": "Neil",
+	"prescription_id": "abcd11111",
+ 	"store_address": "106. Pittwater Road.",
+  	"suburb": "Dee Why",
+  	"email_address": "neil.snowdon@vonage.com",
+  	"first_name": "Neil",
 	"last_name": "Snowdon"
   },	  
   {
-    "cli": "61408222011",
+    	"cli": "61408222011",
 	"store_ref": "cw002",
-    "store_address": "1. 3. Constitution Rd.",
-    "suburb": "Medowbank",
-    "email_address": "raj.shah@vonage.com",
-    "first_name": "Raj",
+	"prescription_id": "abcd11112",
+    	"store_address": "1. 3. Constitution Rd.",
+    	"suburb": "Medowbank",
+    	"email_address": "raj.shah@vonage.com",
+    	"first_name": "Raj",
 	"last_name": "Shah"
   },
   {
-    "cli": "0408222011",
+    	"cli": "0408222011",
 	"store_ref": "cw002",
-    "store_address": "1. 3. Constitution Rd.",
-    "suburb": "Medowbank",
-    "email_address": "raj.shah@vonage.com",
-    "first_name": "Raj",
+	"prescription_id": "abcd11112",
+    	"store_address": "1. 3. Constitution Rd.",
+    	"suburb": "Medowbank",
+    	"email_address": "raj.shah@vonage.com",
+    	"first_name": "Raj",
 	"last_name": "Shah"
   }	  
 ]
